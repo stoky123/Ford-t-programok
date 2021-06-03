@@ -1,0 +1,6 @@
+S->aS
+S->bAc
+A->bAc
+A->d
+
+szó: aabbdcc

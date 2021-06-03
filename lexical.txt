@@ -1,0 +1,22 @@
+kis12:=12kis{mm}(*)>=$
+
+<változó>
+<értékadás>
+<konstans>
+<változó>
+<{}kommentár>
+<(**)kommentár>
+< >=token >
+<eof>
+
+orosz32:=32orosz<={fff}(***)1$
+
+<azonosito>
+<ertekadas>
+<konstans>
+<azonosito>
+<kisebbegyenlo>
+<{}kommentar>
+<(**)kommentar>
+<konstans>
+<eof>
